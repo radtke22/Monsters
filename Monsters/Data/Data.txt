@@ -1,0 +1,2 @@
+﻿Sid,44,happy
+Lucy,33,sad
